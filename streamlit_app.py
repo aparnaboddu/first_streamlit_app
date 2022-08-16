@@ -8,5 +8,5 @@ streamlit.header('kids favorates')
 streamlit.text('pizza')
 streamlit.text('biryani')
 streamlit.text('avacado toast')
-streanlit.header('🍕 kids make yoyr own pizza🍕')
+streamlit.header('🍕 kids make your own pizza🍕')
 
