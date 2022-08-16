@@ -9,4 +9,5 @@ streamlit.text('pizza')
 streamlit.text('biryani')
 streamlit.text('avacado toast')
 streamlit.header('🍕 kids make your own pizza🍕')
+import pandas
 
